@@ -1,0 +1,43 @@
+img{
+    height:300px;
+    width:px;
+}
+h2{
+    color: goldenrod;
+}
+h1{
+    color: darkgoldenrod;
+}
+a{
+    border: 2px solid darkgoldenrod;
+     border-radius: 12px;
+     padding: 5px;
+    background-color: goldenrod;
+}
+body{
+    background-color: blanchedalmond;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.aog1{
+    height: 450px;
+    width:450px;
+}
+.aog2{
+    height: 450px;
+    width:450px;
+}
+.aog3{
+    height: 450px;
+    width:450px;
+}
+.aog4{
+    height: 450px;
+    width:450px;
+}
+.aog5{
+    height: 450px;
+    width:450px;
+}
